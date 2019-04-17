@@ -16,7 +16,7 @@ You can find the dataset on <a href="https://www.kaggle.com/c/digit-recognizer">
 <p> This step is most important and includes 3 task:
 <ol> <li> Flatten the images and get them to a common dimension  </li>
   <li> Normalize it  </li>
-    <li> convert the encoded output array to a number </li></ol></p> <br/>
+    <li> convert the encoded output array to a number </li></ol></p> 
 
 <h4>Step 4: Define the model </h4>
 <p> Here we define a simple neural network with a dense hidden and output layer </p> 
